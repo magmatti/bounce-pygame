@@ -1,5 +1,5 @@
 # bounce-pygame
-Clone of Bounce (from old nokia phones) game made using pygame library. 
+Clone of "Bounce!" (from old nokia phones) game made using pygame library. 
 Currently app has only one level and it might be updated soon. 
 
 # How to run
